@@ -1,2 +1,2 @@
-# SQL-Practice
-SQL Practice questions and solutions
+# SQL Q&A Practice
+This repository contains SQL practice questions from [StrataSratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels.
