@@ -1,5 +1,5 @@
 # SQL Q&A Practice
-This repository contains SQL practice questions from [StrataSratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels.
+This repository contains SQL practice questions from [StrataScratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels.
 
 ## List of Questions
 | ID        | Title           | Difficulty  | Solution |
