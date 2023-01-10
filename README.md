@@ -1,5 +1,5 @@
 # SQL Q&A Practice
-This repository contains SQL practice questions from [StrataScratch](https://www.stratascratch.com) written in **PostgreSQL**. These questions span over easy, medium and hard levels with a greater focus on the hard-level questions.  
+This repository contains SQL practice questions from [StrataScratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels.
 
 ## List of Questions
 | ID        | Title           | Difficulty  | Solution |
@@ -54,3 +54,14 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 9814 | [Counting Instances in Text](https://platform.stratascratch.com/coding/9814-counting-instances-in-text?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9814.sql) |
 | 9815 | [Price Of A Handyman](https://platform.stratascratch.com/coding/9815-price-of-a-handyman?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9815.sql) |
 | 9816 | [Find the list of intersections between both word lists](https://platform.stratascratch.com/coding/9816-find-the-list-of-intersections-between-both-word-lists?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9816.sql) |
+| 9818 | [File Contents Shuffle](https://platform.stratascratch.com/coding/9818-file-contents-shuffle?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9818.sql) |
+| 9821 | [Common Friends Friend](https://platform.stratascratch.com/coding/9821-common-friends-friend?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9821.sql) |
+| 9822 | [Find the average number of friends a user has](https://platform.stratascratch.com/coding/9822-find-the-average-number-of-friends-a-user-has?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9822.sql) |
+| 9823 | [Common Letters](https://platform.stratascratch.com/coding/9823-common-letters?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9823.sql) |
+| 9855 | [Find the 5th highest salary without using TOP or LIMIT](https://platform.stratascratch.com/coding/9855-find-the-5th-highest-salary-without-using-top-or-limit?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9855.sql) |
+| 9857 | [Find the second highest salary without using ORDER BY](https://platform.stratascratch.com/coding/9857-find-the-second-highest-salary-without-using-order-by?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9857.sql) |
+| 9859 | [Find the first 50% records of the dataset](https://platform.stratascratch.com/coding/9859-find-the-first-50-records-of-the-dataset?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9859.sql) |
+| 9865 | [Highest Salaried Employees](https://platform.stratascratch.com/coding/9865-highest-salaried-employees?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9865.sql) |
+| 9883 | [Find the oldest survivor per passenger class](https://platform.stratascratch.com/coding/9883-find-the-oldest-survivor-per-passenger-class?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9883.sql) |
+| 9894 | [Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9894.sql) |
+| 9897 | [Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9897.sql) |
