@@ -1,5 +1,5 @@
 # SQL Q&A Practice
-This repository contains SQL practice questions from [StrataScratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels.
+This repository contains SQL practice questions from [StrataScratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels with a greater focus on the hard-level questions.
 
 ## List of Questions
 | ID        | Title           | Difficulty  | Solution |
@@ -65,3 +65,12 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 9883 | [Find the oldest survivor per passenger class](https://platform.stratascratch.com/coding/9883-find-the-oldest-survivor-per-passenger-class?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9883.sql) |
 | 9894 | [Employee and Manager Salaries](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9894.sql) |
 | 9897 | [Highest Salary In Department](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9897.sql) |
+| 9898 | [Distinct Salaries](https://platform.stratascratch.com/coding/9898-unique-salaries?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9898.sql) |
+| 9900 | [Median Salary](https://platform.stratascratch.com/coding/9900-median-salary?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9900.sql) |
+| 9905 | [Highest Target Under Manager](https://platform.stratascratch.com/coding/9905-highest-target-under-manager?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9905.sql) |
+| 9917 | [Average Salaries](https://platform.stratascratch.com/coding/9917-average-salaries?code_type=1) | Easy | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9917.sql) |
+| 9919 | [Unique Highest Salary](https://platform.stratascratch.com/coding/9919-unique-highest-salary?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9919.sql) |
+| 9924 | [Find libraries who haven't provided the email address in circulation year 2016 but their notice preference definition is set to email](https://platform.stratascratch.com/coding/9924-find-libraries-who-havent-provided-the-email-address-in-2016-but-their-notice-preference-definition-is-set-to-email?code_type=1) | Easy | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9924.sql) |
+| 9942 | [Largest Olympics](https://platform.stratascratch.com/coding/9942-largest-olympics?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9942.sql) |
+| 9952 | [Name to Medal Connection](https://platform.stratascratch.com/coding/9952-name-to-medal-connection?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9952.sql) |
+| 9953 | [Olympics Gender Ratio](https://platform.stratascratch.com/coding/9953-find-the-gender-ratio-between-the-number-of-men-and-women-who-participated-in-each-olympics?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9953.sql) |
