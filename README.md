@@ -1,5 +1,5 @@
 # SQL Q&A Practice
-This repository contains SQL practice questions from [StrataScratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels with a greater focus on the _hard-level_ questions.
+This repository contains SQL practice questions from [StrataScratch](https://www.stratascratch.com) written mainly in **PostgreSQL**. These questions span over easy, medium and hard levels with a greater focus on the hard-level questions.
 
 ## List of Questions
 | ID        | Title           | Difficulty  | Solution |
@@ -74,3 +74,13 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 9942 | [Largest Olympics](https://platform.stratascratch.com/coding/9942-largest-olympics?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9942.sql) |
 | 9952 | [Name to Medal Connection](https://platform.stratascratch.com/coding/9952-name-to-medal-connection?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9952.sql) |
 | 9953 | [Olympics Gender Ratio](https://platform.stratascratch.com/coding/9953-find-the-gender-ratio-between-the-number-of-men-and-women-who-participated-in-each-olympics?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9953.sql) |
+| 9955 | [Norwegian Alpine Skiers](https://platform.stratascratch.com/coding/9955-norwegian-alpine-skiers?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9955.sql) |
+| 9957 | [Find how the average male height changed between each Olympics from 1896 to 2016](https://platform.stratascratch.com/coding/9957-find-how-the-average-male-height-changed-between-each-olympics-from-1896-to-2016?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9957.sql) |
+| 9960 | [Top Teams In The Rio De Janeiro 2016 Olympics](https://platform.stratascratch.com/coding/9960-top-teams-in-the-rio-de-janeiro-2016-olympics?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9960.sql) |
+| 9966 | [Quarterback With The Longest Throw](https://platform.stratascratch.com/coding/9966-quarterback-with-the-longest-throw?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9966.sql) |
+| 9972 | [Find the base pay for Police Captains](https://platform.stratascratch.com/coding/9972-find-the-base-pay-for-police-captains?code_type=1) | Easy | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9972.sql) |
+| 9979 | [Find the top 5 highest paid and top 5 least paid employees in 2012](https://platform.stratascratch.com/coding/9979-find-the-top-5-highest-paid-and-top-5-least-paid-employees-in-2012?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9979.sql) |
+| 9981 | [Employees Without Benefits](https://platform.stratascratch.com/coding/9981-employees-without-benefits?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9981.sql) |
+| 9983 | [Median Job Salaries](https://platform.stratascratch.com/coding/9983-median-job-salaries?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9983.sql) |
+| 9985 | [Above Average But Not At The Top](https://platform.stratascratch.com/coding/9985-above-average-but-not-at-the-top?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9985.sql) |
+| 9986 | [Find the top 5 least paid employees for each job title](https://platform.stratascratch.com/coding/9986-find-the-top-5-least-paid-employees-for-each-job-title?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9986.sql) |
