@@ -119,3 +119,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 10173 | [Days At Number One](https://platform.stratascratch.com/coding/10173-days-at-number-one?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10173.sql) |
 | 10176 | [Bikes Last Used](https://platform.stratascratch.com/coding/10176-bikes-last-used?code_type=1) | Easy | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10176.sql) |
 | 10284 | [Popularity Percentage](https://platform.stratascratch.com/coding/10284-popularity-percentage?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10284.sql) |
+| 10285 | [Acceptance Rate By Date](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10285.sql) |
+| 10297 | [Comments Distribution](https://platform.stratascratch.com/coding/10297-comments-distribution?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10297.sql) |
+| 10299 | [Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1) | Easy | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10299.sql) |
+| 10300 | [Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10300.sql) |
+| 10302 | [Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10302.sql) |
