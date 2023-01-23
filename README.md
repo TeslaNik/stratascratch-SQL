@@ -124,3 +124,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 10299 | [Finding Updated Records](https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1) | Easy | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10299.sql) |
 | 10300 | [Premium vs Freemium](https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10300.sql) |
 | 10302 | [Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10302.sql) |
+| 10303 | [Top Percentile Fraud](https://platform.stratascratch.com/coding/10303-top-percentile-fraud?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10303.sql) |
+| 10308 | [Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1) | Easy | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10308.sql) |
+| 10313 | [Naive Forecasting](https://platform.stratascratch.com/coding/10313-naive-forecasting?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10313.sql) |
+| 10314 | [Revenue Over Time](https://platform.stratascratch.com/coding/10314-revenue-over-time?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10314.sql) |
+| 10350 | [Algorithm Performance](https://platform.stratascratch.com/coding/10350-algorithm-performance?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10350.sql) |
