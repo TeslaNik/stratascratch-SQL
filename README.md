@@ -129,3 +129,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 10313 | [Naive Forecasting](https://platform.stratascratch.com/coding/10313-naive-forecasting?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10313.sql) |
 | 10314 | [Revenue Over Time](https://platform.stratascratch.com/coding/10314-revenue-over-time?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10314.sql) |
 | 10350 | [Algorithm Performance](https://platform.stratascratch.com/coding/10350-algorithm-performance?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10350.sql) |
+| 10352 | [Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10352.sql) |
+| 10354 | [Most Profitable Companies](https://platform.stratascratch.com/coding/10354-most-profitable-companies?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10354.sql) |
+| 2046 | [Maximum Number of Employees Reached](https://platform.stratascratch.com/coding/2046-maximum-number-of-employees-reached?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2046.sql) |
+| 9632 | [Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9632.sql) |
+| 9633 | [City With Most Amenities](https://platform.stratascratch.com/coding/9633-city-with-most-amenities?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9633.sql) |
