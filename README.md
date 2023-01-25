@@ -134,3 +134,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 2046 | [Maximum Number of Employees Reached](https://platform.stratascratch.com/coding/2046-maximum-number-of-employees-reached?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2046.sql) |
 | 9632 | [Host Popularity Rental Prices](https://platform.stratascratch.com/coding/9632-host-popularity-rental-prices?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9632.sql) |
 | 9633 | [City With Most Amenities](https://platform.stratascratch.com/coding/9633-city-with-most-amenities?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9633.sql) |
+| 10353 | [Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10353.sql) |
+| 10351 | [Activity Rank](https://platform.stratascratch.com/coding/10351-activity-rank?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10351.sql) |
+| 10068 | [User Email Labels](https://platform.stratascratch.com/coding/10068-user-email-labels?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10068.sql) |
+| 10304 | [Risky Projects](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10304.sql) |
+| 10324 | [Distances Traveled](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10324.sql) |
