@@ -139,3 +139,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 10068 | [User Email Labels](https://platform.stratascratch.com/coding/10068-user-email-labels?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10068.sql) |
 | 10304 | [Risky Projects](https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10304.sql) |
 | 10324 | [Distances Traveled](https://platform.stratascratch.com/coding/10324-distances-traveled?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10324.sql) |
+| 10301 | [Expensive Projects](https://platform.stratascratch.com/coding/10301-expensive-projects?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10301.sql) |
+| 9901 | [Super Managers](https://platform.stratascratch.com/coding/9901-super-managers?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9901.sql) |
+| 9895 | [Duplicate Emails](https://platform.stratascratch.com/coding/9895-duplicate-emails?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9895.sql) |
+| 9904 | [Highest Target](https://platform.stratascratch.com/coding/9904-highest-target?tabname=question) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9904.sql) |
+| 10318 | [New Products](https://platform.stratascratch.com/coding/10318-new-products?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10318.sql) |
