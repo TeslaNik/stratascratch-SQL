@@ -144,3 +144,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 9895 | [Duplicate Emails](https://platform.stratascratch.com/coding/9895-duplicate-emails?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9895.sql) |
 | 9904 | [Highest Target](https://platform.stratascratch.com/coding/9904-highest-target?tabname=question) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9904.sql) |
 | 10318 | [New Products](https://platform.stratascratch.com/coding/10318-new-products?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10318.sql) |
+| 10169 | [Highest Total Miles](https://platform.stratascratch.com/coding/10169-highest-total-miles?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10169.sql) |
+| 9701 | [3rd Most Reported Health Issues](https://platform.stratascratch.com/coding/9701-3rd-most-reported-health-issues?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9701.sql) |
+| 9736 | [Highest Number Of High-risk Violations](https://platform.stratascratch.com/coding/9736-highest-number-of-high-risk-violations?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9736.sql) |
+| 9741 | [Inspection Scores For Businesses](https://platform.stratascratch.com/coding/9741-inspection-scores-for-businesses?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9741.sql) |
+| 9716 | [Top 3 Facilities](https://platform.stratascratch.com/coding/9716-top-3-facilities?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9716.sql) |
