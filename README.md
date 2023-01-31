@@ -149,3 +149,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 9736 | [Highest Number Of High-risk Violations](https://platform.stratascratch.com/coding/9736-highest-number-of-high-risk-violations?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9736.sql) |
 | 9741 | [Inspection Scores For Businesses](https://platform.stratascratch.com/coding/9741-inspection-scores-for-businesses?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9741.sql) |
 | 9716 | [Top 3 Facilities](https://platform.stratascratch.com/coding/9716-top-3-facilities?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9716.sql) |
+| 10319 | [Monthly Percentage Difference](https://platform.stratascratch.com/coding/10319-monthly-percentage-difference?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10319.sql) |
+| 10172 | [Best Selling Item](https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10172.sql) |
+| 10067 | [Google Fit User Tracking](https://platform.stratascratch.com/coding/10067-google-fit-user-tracking?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/10067.sql) |
+| 9711 | [Facilities With Lots Of Inspections](https://platform.stratascratch.com/coding/9711-facilities-with-lots-of-inspections?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9711.sql) |
+| 9637 | [Growth of Airbnb](https://platform.stratascratch.com/coding/9637-growth-of-airbnb?code_type=1) | Hard | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9637.sql) |
