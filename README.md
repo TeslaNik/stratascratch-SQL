@@ -164,3 +164,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 9915 | [Highest Cost Orders](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9915.sql) |
 | 9908 | [Customer Orders and Details](https://platform.stratascratch.com/coding/9908-customer-orders-and-details?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9908.sql) |
 | 9910 | [Favorite Customer](https://platform.stratascratch.com/coding/9910-favorite-customer?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9910.sql) |
+| 9912 | [Lowest Priced Orders](https://platform.stratascratch.com/coding/9912-lowest-priced-orders?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9912.sql) |
+| 9899 | [Percentage Of Total Spend](https://platform.stratascratch.com/coding/9899-percentage-of-total-spend?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9899.sql) |
+| 9892 | [Second Highest Salary](https://platform.stratascratch.com/coding/9892-second-highest-salary?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9892.sql) |
+| 9896 | [Customers Without Orders](https://platform.stratascratch.com/coding/9896-customers-without-orders?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9896.sql) |
+| 9921 | [Department Salaries](https://platform.stratascratch.com/coding/9921-department-salaries?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9921.sql) |
