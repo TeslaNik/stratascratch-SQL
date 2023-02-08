@@ -179,3 +179,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 9728 | [Number of violations](https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9728.sql) |
 | 9740 | [Daily Violation Counts](https://platform.stratascratch.com/coding/9740-daily-violation-counts?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/9740.sql) |
 | 2075 | [Homework Results](https://platform.stratascratch.com/coding/2075-homework-results?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2075.sql) |
+| 2128 | [Book Sales](https://platform.stratascratch.com/coding/2128-book-sales?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2128.sql) |
+| 2132 | [Caller History](https://platform.stratascratch.com/coding/2132-caller-history?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2132.sql) |
+| 2130 | [Duplicate Training Lessons](https://platform.stratascratch.com/coding/2130-duplicate-training-lessons?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2130.sql) |
+| 2060 | [Manager of the Largest Department](https://platform.stratascratch.com/coding/2060-manager-of-the-largest-department?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2060.sql) |
+| 2108 | [Responsible for Most Customers](https://platform.stratascratch.com/coding/2108-responsible-for-most-customers?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2108.sql) |
