@@ -189,3 +189,8 @@ This repository contains SQL practice questions from [StrataScratch](https://www
 | 2140 | [Third Highest Total Transaction](https://platform.stratascratch.com/coding/2140-third-highest-total-transaction?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2140.sql) |
 | 2143 | [Invalid Bank Transactions](https://platform.stratascratch.com/coding/2143-invalid-bank-transactions?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2143.sql) |
 | 2003 | [Recent Refinance Submissions](https://platform.stratascratch.com/coding/2003-recent-refinance-submissions?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2003.sql) |
+| 2001 | [Share of Loan Balance](https://platform.stratascratch.com/coding/2001-share-of-loan-balance?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2001.sql) |
+| 2000 | [Variable vs Fixed Rates](https://platform.stratascratch.com/coding/2000-variable-vs-fixed-rates?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2000.sql) |
+| 2139 | [Average Age of Claims by Gender](https://platform.stratascratch.com/coding/2139-average-age-of-claims-by-gender?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2139.sql) |
+| 2064 | [Difference Between Times](https://platform.stratascratch.com/coding/2064-difference-between-times?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2064.sql) |
+| 2066 | [Fastest Hometowns](https://platform.stratascratch.com/coding/2066-fastest-hometowns?code_type=1) | Medium | [Link](https://github.com/TeslaNik/SQL-Practice/blob/main/sql/2066.sql) |
