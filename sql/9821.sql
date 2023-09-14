@@ -1,27 +1,23 @@
-with temp as
-    (select user_id as user, 
-        friend_id as friend
-    from google_friends_network
-    UNION
-    select user_id as user, friend_id as friend
-    from google_friends_network),
+with friends as
+    (select user_id, friend_id from google_friends_network
+        union
+    select friend_id, user_id from google_friends_network),
 
 uff as
-    (select distinct t1.user,
-        t2.friend as o_friend,
-        CASE WHEN t2.friend in (select friend from temp where temp.user = t1.user) then 1 else 0 end as uff
-    from temp t1
-    inner join temp t2
-    on t1.friend = t2.user 
-        and t1.user != t2.friend)
+    (select distinct f1.user_id,
+        f2.friend_id as uff
+    from friends f1
+    inner join friends f2
+    on f1.friend_id = f2.user_id and f1.user_id != f2.friend_id)
 
-select a.user,
-    b.num_uff
-from (select distinct temp.user 
-        from temp) a
-left join (select uff.user, 
-                SUM(uff.uff) as num_uff 
-            from uff 
-            group by uff.user) b
-on a.user = b.user
-order by a.user;
+select b1.user_id,
+    COALESCE(counts, 0) AS counts
+from (select distinct user_id from friends) b1
+left join 
+    (select user_id, 
+        COUNT(*) AS counts
+    from uff
+    where (user_id, uff) in (select user_id, friend_id from friends)
+    group by user_id) b2
+on b1.user_id = b2.user_id
+order by b1.user_id;
