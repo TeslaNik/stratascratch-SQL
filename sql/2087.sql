@@ -1,18 +1,13 @@
 with t1 as
-    (select id, 
-        name from instacart_stores
-    where extract(month from opening_date) >6),
-    
-t2 as
-    (select store_id,
-        SUM(case when score <5 then 1 else 0 end) as num_neg_reviews,
-        COUNT(*) as total_reviews
-    from instacart_reviews
-    group by store_id)
+    (select s.name,
+        100*avg((case when r.score < 5 then 1 else 0 end)) as perc_negative
+    from instacart_reviews r
+    inner join instacart_stores s
+    on r.store_id = s.id
+    where s.opening_date >= '2021-07-01'
+    group by s.name)
 
-select t1.name,
-    t2.num_neg_reviews*1.0/(t2.total_reviews - t2.num_neg_reviews) as neg_to_pos_ratio
+select name, 
+    perc_negative/(100-perc_negative) as neg_to_pos 
 from t1
-inner join t2
-on t1.id = t2.store_id
-where t2.num_neg_reviews*1.0/t2.total_reviews > 0.20;
+where perc_negative > 20;
