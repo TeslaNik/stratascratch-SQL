@@ -18,7 +18,7 @@ common_times as
             OR (t2.arrival_time > t1.departure_time and t2.departure_time > t1.departure_time))
     )
     
-SELECT MAX(concurrent_trains)  AS min_num_platforms_req       
+SELECT MAX(concurrent_trains) + 1 AS min_num_platforms_req       
 FROM
     (select train_id, 
         COUNT(*) as concurrent_trains 
